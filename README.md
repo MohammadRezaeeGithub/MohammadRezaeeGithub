@@ -4,7 +4,7 @@
 
 Graduated in computer engineering (software) and strong experience in humanitarian field, seeking to start my career in web development field. Strong skills in PHP, Laravel, and web development through several projects during my trainings coupled with a creative mind.
 
-###Skills:
+### Skills:
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
