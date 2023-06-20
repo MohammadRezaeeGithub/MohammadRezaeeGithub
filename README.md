@@ -20,9 +20,9 @@ Graduated in computer engineering (software) and strong experience in humanitari
 <img align="left" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
 
-
-
-
+  
+  
+  
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRezaeeGithub&layout=compact)
 
