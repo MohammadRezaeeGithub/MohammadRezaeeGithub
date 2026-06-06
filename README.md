@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a web developer currently working as **Technicien Support Applicatif** at Exadis, actively transitioning into a full-time developer role. I build things from scratch — not just to make them work, but to understand *why* they work.
+Full-stack developer with 3 years of experience in agency and corporate environments, specialized in PHP/Laravel and Vue.js 3. I have built two complete web applications end-to-end — a modular architecture with custom RBAC and a full-stack e-commerce platform with Stripe payments — fully containerized with Docker. Looking for a full-stack developer position in Lyon.
 
 My approach: clean architecture, no shortcuts, no magic packages when I can learn by building it myself.
 
