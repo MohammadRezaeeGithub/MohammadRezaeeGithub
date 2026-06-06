@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a web developer currently working as **Technicien Support Applicatif** at Exadis, actively transitioning into a full-time developer role. I build things from scratch — not just to make them work, but to understand *why* they work.
 
@@ -28,7 +28,7 @@ My approach: clean architecture, no shortcuts, no magic packages when I can lear
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -49,19 +49,19 @@ My approach: clean architecture, no shortcuts, no magic packages when I can lear
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛒 [E-Commerce Platform — Laravel & Vue.js](https://github.com/MohammadRezaeeGithub/E-commercePlatformLaravelVue)
+### [E-Commerce Platform — Laravel & Vue.js](https://github.com/MohammadRezaeeGithub/E-commercePlatformLaravelVue)
 Full-stack e-commerce platform with a **Vue.js 3 SPA** admin dashboard and a Laravel + Blade storefront.
 Stripe payments · Docker · REST API · Composition API · Vite · Tailwind
 
-### 🧩 [Laravel Modules](https://github.com/MohammadRezaeeGithub/LaravelModules)
+### [Laravel Modules](https://github.com/MohammadRezaeeGithub/LaravelModules)
 Modular monolith architecture with a **custom RBAC system** built from scratch — no external packages.
 Laravel Gates · Middleware · Service Providers · Docker · Interface/Contract pattern
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 - **Spring Boot** — building REST APIs with Java
 - Software architecture patterns (Clean Architecture, DDD)
